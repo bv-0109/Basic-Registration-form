@@ -18,24 +18,11 @@ Flask (Python web framework)
 
 Open your browser and go to:
 
-localhost:5000/
+http://localhost:5000/
 
 Fill out the registration form and click Register.
 You will be redirected to the confirmation page showing your submitted details.
 
-📂 Project Structure:
-
-Code:
-
-project-folder/
-│
-├── new.py               
-# Main Flask application
-├── templates/
-│   ├── register.html     
-# Registration form page
-│   └── confirmation.html
-# Confirmation output page
 
 🖥️ Example Workflow:
 
